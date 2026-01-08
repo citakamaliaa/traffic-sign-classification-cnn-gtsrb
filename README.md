@@ -1,4 +1,4 @@
-# Traffic Sign Detection and Classification using Fast R-CNN and CNN
+# Traffic Sign Classification using CNN
 
 ## Overview
 This project implements a **Convolutional Neural Network (CNN)** to automatically detect and classify traffic signs. Traffic sign recognition is a critical technology for Intelligent Transportation Systems (ITS) and self-driving vehicles. Using the **German Traffic Sign Recognition Benchmark (GTSRB)** dataset, this model distinguishes between 43 different classes of traffic signs. The final model achieves a classification accuracy of approximately **95%**.
