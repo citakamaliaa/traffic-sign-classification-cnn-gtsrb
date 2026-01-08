@@ -31,8 +31,8 @@ The model was trained for 25 epochs.
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/citakamaliaa/traffic-sign-detection-fastrcnn.git](https://github.com/citakamaliaa/traffic-sign-detection-fastrcnn.git)
-    cd traffic-sign-detection-fastrcnn
+    git clone [https://github.com/citakamaliaa/traffic-sign-classification-cnn-gtsrb.git](https://github.com/citakamaliaa/traffic-sign-classification-cnn-gtsrb.git)
+    cd traffic-sign-classification-cnn-gtsrb
     ```
 
 2.  **Install dependencies**
